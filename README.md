@@ -1,4 +1,4 @@
-Sistema de Peaje Asistido. 
+# Sistema de Peaje Asistido. 
 
 El proyecto se centra en la implementación de un sistema de peaje autónomo que utiliza tecnología de visión computacional para automatizar y mejorar la gestión de peajes en carreteras y autopistas. La combinación de OpenCV, Python y el modelo YOLO de Ultralitics, respaldado por las bibliotecas de PyTorch y TensorFlow, permite una detección precisa de vehículos y una gestión eficiente del proceso de peaje. 
 
